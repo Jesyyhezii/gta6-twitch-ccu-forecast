@@ -1,3 +1,12 @@
+# Artefak Python yang tidak perlu masuk repo
 __pycache__/
+*.py[cod]
 *.pyc
-out/
+
+# Keluaran lokal dari menjalankan entri
+*.out
+
+# Lingkungan dan alat lokal
+.venv/
+venv/
+.DS_Store

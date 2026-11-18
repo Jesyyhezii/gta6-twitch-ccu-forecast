@@ -1,6 +1,10 @@
 # Perkiraan penonton Twitch GTA VI di hari rilis
 
-Entri untuk kompetisi `gta6-twitch-ccu-forecast-01`. Tugasnya: menebak
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Jesyyhezii/gta6-twitch-ccu-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Jesyyhezii/gta6-twitch-ccu-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Entri untuk kompetisi [`gta6-twitch-ccu-forecast-01`](https://make.fun/bounty/gta6-twitch-ccu-forecast-01) di [make.fun](https://make.fun). Tugasnya: menebak
 berapa penonton kategori Grand Theft Auto VI di Twitch pada tiap jam
 hari peluncuran, jam 2 sampai 24, dalam bentuk lima kuantil per jam
 (5%, 25%, 50%, 75%, 95%).
